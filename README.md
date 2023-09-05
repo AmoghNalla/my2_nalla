@@ -19,4 +19,4 @@ I feel very relaxing when I'm around there.
     * Noodles
     * pizza and burgers
 
-<!-- **[page](MyStats.md)** -->
+**[page](MyStats.md)** 
