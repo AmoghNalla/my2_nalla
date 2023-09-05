@@ -34,3 +34,13 @@ In this section, I am going to talk about four sports that I personally recommen
 | Kho - Kho | Great way to improve running | 4-5 hours |
 | Kabaddi | Sharpen your feet moment | 4-5 hours |
 
+---
+
+# Scientists Quotes
+
+> He who can listen to the music in the midst of noise can achieve great things. - * Heinlein *
+
+> Build a strong base. The journey to peaks of excellence requires a strong base camp. - * CNR Rao *
+
+
+
