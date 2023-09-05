@@ -5,3 +5,10 @@
 My favorite vacation spot is anywhere at the beaches because of its waves or atmosphere over there give me **peaceful**, **joyful**, and a **pleasant** experience.
 I really love to be that way
 I feel very relaxing when I'm around there.
+
+---
+
+* Dishes of food I get at my vacation spot
+    * Fried rice
+    * Noodles
+    * pizza and burgers
