@@ -42,5 +42,35 @@ In this section, I am going to talk about four sports that I personally recommen
 
 > Build a strong base. The journey to peaks of excellence requires a strong base camp. - *CNR Rao*
 
+---
+
+# Adding a code snippet
+
+> Connection to database PHP 
+
+<https://stackoverflow.com/questions/40332242/connection-to-database-php>
+
+```
+<?php
+
+$hostname = 'localhost';
+$user = 'username';
+$pass = 'password';
+$database = 'database_name';
+
+$db_connection = new PDO( "mysql:host=" . $hostname . ";dbname=" . $database, $user, $pass );
+
+$results = $db_connection->query( 'SELECT testimonial, author FROM recommendations WHERE 1 ORDER by rand() LIMIT 1' );
+
+foreach ( $results as $row ) {
+	echo '<p id="quote">' . $row['testimonial'] . '</p>';
+	echo '<p id="author">&ndash;' . $row['author'] . '</p>';
+}
+
+// Close the connection
+$db_connection = null;
+```
+
+<https://css-tricks.com/snippets/php/basic-database-connection-random-query-display-result/>
 
 
