@@ -38,9 +38,9 @@ In this section, I am going to talk about four sports that I personally recommen
 
 # Scientists Quotes
 
-> He who can listen to the music in the midst of noise can achieve great things. - *Heinlein*
+>"He who can listen to the music in the midst of noise can achieve great things. "- *Heinlein*
 
-> Build a strong base. The journey to peaks of excellence requires a strong base camp. - *CNR Rao*
+>"Build a strong base. The journey to peaks of excellence requires a strong base camp. "- *CNR Rao*
 
 ---
 
