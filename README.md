@@ -46,7 +46,7 @@ In this section, I am going to talk about four sports that I personally recommen
 
 # Adding a code snippet
 
-> Connection to database PHP 
+How to connect to database PHP?
 
 <https://stackoverflow.com/questions/40332242/connection-to-database-php>
 
